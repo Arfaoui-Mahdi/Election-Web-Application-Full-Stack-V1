@@ -46,5 +46,9 @@ make sure to install maven***
 **********PS***********
 i was going ti implement JWT framework for more security capability but we could do it after we accomplish the important tasks
 
+***To Mention**
+i didn't get it to study what spring batch is, during al this time i was trying to understand and implement in teh same time casue to be honest , i don't know about all this fields casue i'm not specialised in this (my field is embedded systems), so that's why i didn't apply spring batch framework. 
+
+
 THANKS
 

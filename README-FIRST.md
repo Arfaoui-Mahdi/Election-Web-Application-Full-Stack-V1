@@ -1,22 +1,24 @@
 # Election-Web-Application-Full-Stack-V1
 this version need some adds and some modifications, like implementing the h2 DB into a static normal database , add activity and electoral progam/list and a back-end micro-service to calculate the score of each candidate. 
 
-Video Link : https://drive.google.com/open?id=1UPR1cVtvaH434-NbiCgU-EXUOiVaftbf \n
-*
+Video Link : https://drive.google.com/open?id=1UPR1cVtvaH434-NbiCgU-EXUOiVaftbf 
+
 sorry for the sound quality and for me saying a lot of "euuuuuuuuh" xD
-*
+
 NOTE :
 -src.zip is the angular src u just need to replace into you angular project repository
 -src-spring.zip is the spring project src u need to replace it tooo
 
 
 Steps :
-- go https://start.spring.io/ and choose : maven project - java(version 11 in options) - 2.1.8 snapshot - and add as dependecies (JPA - web - DebTools - Spring Security - H2 )
+
+- go https://start.spring.io/ and choose : maven project - java(version 11 in options) - 2.1.8 snapshot - and add as       dependecies (JPA - web - DebTools - Spring Security - H2 )
 -download the zip , unzipp it , open eclipse or STS (Spring Tool Suite 4 "IDE" for spring framework) 
 -go to file->import->existing maven project  and put the unzipped folder directory wher a "pom.xml" exists
 -open and let the IDE downloads the dependencies and setup you wrokspace 
 -replace the src folder 
 -launch the application 
+
 *
 *
 *

@@ -6,24 +6,30 @@ Video Link : https://drive.google.com/open?id=1UPR1cVtvaH434-NbiCgU-EXUOiVaftbf
 sorry for the sound quality and for me saying a lot of "euuuuuuuuh" xD
 
 NOTE :
--src.zip is the angular src u just need to replace into you angular project repository
--src-spring.zip is the spring project src u need to replace it tooo
+
+1-src.zip is the angular src u just need to replace into you angular project repository
+
+2-src-spring.zip is the spring project src u need to replace it tooo
 
 
 Steps :
 
-- go https://start.spring.io/ and choose : maven project - java(version 11 in options) - 2.1.8 snapshot - and add as       dependecies (JPA - web - DebTools - Spring Security - H2 )
--download the zip , unzipp it , open eclipse or STS (Spring Tool Suite 4 "IDE" for spring framework) 
--go to file->import->existing maven project  and put the unzipped folder directory wher a "pom.xml" exists
--open and let the IDE downloads the dependencies and setup you wrokspace 
--replace the src folder 
--launch the application 
+1- go https://start.spring.io/ and choose : maven project - java(version 11 in options) - 2.1.8 snapshot - and add as       dependecies (JPA - web - DebTools - Spring Security - H2 )
+
+2-download the zip , unzipp it , open eclipse or STS (Spring Tool Suite 4 "IDE" for spring framework) 
+
+3-go to file->import->existing maven project  and put the unzipped folder directory wher a "pom.xml" exists
+
+4-open and let the IDE downloads the dependencies and setup you wrokspace 
+
+5-replace the src folder 
+
+6-launch the application 
 
 *
 *
-*
-*
-- run ng serve in a terminal where the angular project exists 
+
+7- run ng serve in a terminal where the angular project exists 
 and run the whole project.
 *
 *
